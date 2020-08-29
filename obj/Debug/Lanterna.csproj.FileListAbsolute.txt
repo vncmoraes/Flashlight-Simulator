@@ -1,0 +1,10 @@
+C:\Users\vinic\Desktop\projeto\Lanterna\Lanterna\bin\Debug\Lanterna.exe.config
+C:\Users\vinic\Desktop\projeto\Lanterna\Lanterna\bin\Debug\Lanterna.exe
+C:\Users\vinic\Desktop\projeto\Lanterna\Lanterna\bin\Debug\Lanterna.pdb
+C:\Users\vinic\Desktop\projeto\Lanterna\Lanterna\obj\Debug\Lanterna.csprojAssemblyReference.cache
+C:\Users\vinic\Desktop\projeto\Lanterna\Lanterna\obj\Debug\Lanterna.Properties.Resources.resources
+C:\Users\vinic\Desktop\projeto\Lanterna\Lanterna\obj\Debug\Lanterna.csproj.GenerateResource.cache
+C:\Users\vinic\Desktop\projeto\Lanterna\Lanterna\obj\Debug\Lanterna.csproj.CoreCompileInputs.cache
+C:\Users\vinic\Desktop\projeto\Lanterna\Lanterna\obj\Debug\Lanterna.exe
+C:\Users\vinic\Desktop\projeto\Lanterna\Lanterna\obj\Debug\Lanterna.pdb
+C:\Users\vinic\Desktop\projeto\Lanterna\Lanterna\obj\Debug\Lanterna.FormLanterna.resources
